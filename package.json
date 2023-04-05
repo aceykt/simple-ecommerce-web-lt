@@ -2,6 +2,7 @@
   "name": "shopoholic",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aceykt.github.io/simple-ecommerce-web-lt/index.html",
   "dependencies": {
     "btoa": "^1.2.1",
     "classnames": "^2.2.5",
@@ -27,8 +28,8 @@
     "eject": "react-scripts eject"
   },
   "engines": {
-    "node": "8.9.2",
-    "npm": "5.5.1"
+    "node": "v16.18.0",
+    "npm": "8.19.2"
   },
   "browserslist": {
     "production": [
