@@ -2,7 +2,6 @@
   "name": "shopoholic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aceykt.github.io/simple-ecommerce-web-lt/index.html",
   "dependencies": {
     "btoa": "^1.2.1",
     "classnames": "^2.2.5",
